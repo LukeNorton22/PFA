@@ -18,7 +18,7 @@ monodevelop-version
 .idea/
 
 # User-specific files (Visual Studio Code)
-.vscode/
+.vs/
 
 # User-specific files (Mac)
 .DS_Store
